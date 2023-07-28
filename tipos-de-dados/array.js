@@ -13,4 +13,4 @@ console.log(produtos2[2]);
 console.log(produtos2[2].nome);
 console.log(valores2[0]);
 console.log(valores2[2]);
-console.log(valores2[4]);
+console.log(valores2[4].nome);
